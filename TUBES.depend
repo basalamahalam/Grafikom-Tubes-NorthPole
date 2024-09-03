@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1672638061 source:d:\tugas dokumen project\tugas dan data kuliah\sem 3\new folder\grafikom\tubes\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb/stb_image.h>
+	<windows.h>
+	<mmsystem.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<learnopengl/shader_m.h>
+	<learnopengl/camera.h>
+	<iostream>
+
+1670589018 source:d:\tugas dokumen project\tugas dan data kuliah\sem 3\new folder\grafikom\tubes\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+

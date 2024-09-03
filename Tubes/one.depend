@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1664387600 source:d:\kuliah\grafikom\one\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1671562114 source:d:\kuliah\grafikom\one\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader_m.h"
+	"camera.h"
+	<iostream>
+
+1669297434 d:\kuliah\grafikom\one\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1666802574 d:\kuliah\grafikom\one\learnopengl\shader_s.h
+	<glad/glad.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1665648012 source:d:\kuliah\grafikom\one\vao.cpp
+	"VAO.h"
+
+1665042682 d:\kuliah\grafikom\one\vao.h
+	<glad/glad.h>
+	"VBO.h"
+
+1665042608 d:\kuliah\grafikom\one\vbo.h
+	<glad/glad.h>
+
+1665042632 source:d:\kuliah\grafikom\one\vbo.cpp
+	"VBO.h"
+
+1669297656 d:\kuliah\grafikom\one\shader_m.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1669296261 d:\kuliah\grafikom\one\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1664387600 source:c:\iyar's\grafikom\tubes pusing\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1672388656 source:c:\iyar's\grafikom\tubes pusing\main.cpp
+	<iostream>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader_m.h"
+	"camera.h"
+	"stb_image.h"
+
+1669297434 c:\iyar's\grafikom\tubes pusing\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1669297656 c:\iyar's\grafikom\tubes pusing\shader_m.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1669296261 c:\iyar's\grafikom\tubes pusing\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
+1665648012 source:c:\iyar's\grafikom\tubes pusing\vao.cpp
+	"VAO.h"
+
+1665042682 c:\iyar's\grafikom\tubes pusing\vao.h
+	<glad/glad.h>
+	"VBO.h"
+
+1665042608 c:\iyar's\grafikom\tubes pusing\vbo.h
+	<glad/glad.h>
+
+1665042632 source:c:\iyar's\grafikom\tubes pusing\vbo.cpp
+	"VBO.h"
+

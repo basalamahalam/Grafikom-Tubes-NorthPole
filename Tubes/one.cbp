@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="one" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/one" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/one" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Iyar&apos;s/Grafikom/one/GLM/glm" />
+			<Add directory="C:/Iyar&apos;s/mingw64/include/GLFW" />
+			<Add directory="C:/Iyar&apos;s/mingw64/include/glad" />
+		</Compiler>
+		<Linker>
+			<Add library="C:/Iyar&apos;s/mingw64/lib/libglfw3.a" />
+			<Add library="C:/Iyar&apos;s/mingw64/lib/libglfw3dll.a" />
+			<Add library="C:/Iyar&apos;s/mingw64/x86_64-w64-mingw32/lib/libgdi32.a" />
+			<Add library="C:/Iyar&apos;s/mingw64/x86_64-w64-mingw32/lib/libopengl32.a" />
+			<Add library="opengl32" />
+			<Add library="gdi32" />
+			<Add library="glu32" />
+		</Linker>
+		<Unit filename="4.1.texture.fs" />
+		<Unit filename="4.1.texture.vs" />
+		<Unit filename="VAO.cpp" />
+		<Unit filename="VAO.h" />
+		<Unit filename="VBO.cpp" />
+		<Unit filename="VBO.h" />
+		<Unit filename="default.frag" />
+		<Unit filename="default.vert" />
+		<Unit filename="glad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="learnopengl/shader_s.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="stb_image.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

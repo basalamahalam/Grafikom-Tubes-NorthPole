@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1664387600 source:d:\kuliah\compiler\first project\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1666858178 source:d:\kuliah\compiler\first project\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	"learnopengl/shader_s.h"
+	<iostream>
+
+1665648258 source:d:\kuliah\compiler\first project\ebo.cpp
+	"EBO.h"
+
+1665042730 d:\kuliah\compiler\first project\ebo.h
+	<glad/glad.h>
+
+1665042562 source:d:\kuliah\compiler\first project\shaderclass.cpp
+	"shaderClass.h"
+
+1665042274 d:\kuliah\compiler\first project\shaderclass.h
+	<glad/glad.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<cerrno>
+
+1665648010 source:d:\kuliah\compiler\first project\vao.cpp
+	"VAO.h"
+
+1665042682 d:\kuliah\compiler\first project\vao.h
+	<glad/glad.h>
+	"VBO.h"
+
+1665042608 d:\kuliah\compiler\first project\vbo.h
+	<glad/glad.h>
+
+1665042632 source:d:\kuliah\compiler\first project\vbo.cpp
+	"VBO.h"
+
+1664610620 d:\kuliah\compiler\first project\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1666802572 d:\kuliah\compiler\first project\learnopengl\shader_s.h
+	<glad/glad.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1665648260 source:d:\kuliah\grafikom\first project\ebo.cpp
+	"EBO.h"
+
+1665042730 d:\kuliah\grafikom\first project\ebo.h
+	<glad/glad.h>
+
+1664387600 source:d:\kuliah\grafikom\first project\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1666865454 source:d:\kuliah\grafikom\first project\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	"learnopengl/shader_s.h"
+	<iostream>
+
+1664610620 d:\kuliah\grafikom\first project\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1666802574 d:\kuliah\grafikom\first project\learnopengl\shader_s.h
+	<glad/glad.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1665648012 source:d:\kuliah\grafikom\first project\vao.cpp
+	"VAO.h"
+
+1665042682 d:\kuliah\grafikom\first project\vao.h
+	<glad/glad.h>
+	"VBO.h"
+
+1665042608 d:\kuliah\grafikom\first project\vbo.h
+	<glad/glad.h>
+
+1665042632 source:d:\kuliah\grafikom\first project\vbo.cpp
+	"VBO.h"
+
